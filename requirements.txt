@@ -1,0 +1,13 @@
+streamlit
+langchain
+langchain-community
+langchain-openai
+langchain-groq
+langchain-huggingface
+PyPDF2
+sentence-transformers
+faiss-cpu
+numpy
+openai
+groq
+
