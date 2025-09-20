@@ -2,6 +2,7 @@
 ## 🚀 Live Demo: [Click Here](https://resumeai-harsh-pilania.streamlit.app/)
 ## 📱 Demo Video: [Click Here](https://drive.google.com/file/d/1ljlR4oXACE4up9_SBGwcSX9iRUVX1uZy/view?usp=sharing)
 
+## Home Page: 
 ![ResumeAI Banner](assets/ResumeAI.png)
 
 A powerful **AI-driven resume analysis tool** that helps job seekers optimize their resumes for specific job descriptions. Get instant ATS compatibility scores and personalized career insights through an interactive chat interface.
