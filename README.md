@@ -184,26 +184,4 @@ pip install -r requirements.txt
 - Ensuring stable internet connection
 - Checking API rate limits
 
-## 🛡️ Privacy & Security
 
-- 🔒 Documents processed securely in memory only
-- 🚫 No permanent data storage
-- 🔐 API keys stored locally and ignored by Git
-- 🏠 Session data cleared on browser refresh
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 📞 Support
-
-If you encounter any issues or have questions:
-- Open an issue on GitHub
-- Check the [Streamlit documentation](https://docs.streamlit.io)
-- Review [LangChain documentation](https://docs.langchain.com)
-
----
-
-Made with ❤️ for job seekers worldwide
-
-**Star ⭐ this repository if you found it helpful!**
